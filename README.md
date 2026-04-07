@@ -9,7 +9,7 @@
 ---
 
 📽️ Project Vision
-Abyssal Voyage is a high-performance, narrative-driven web experience created for the **Frontend Odyssey** challenge. It transforms the act of vertical scrolling into a metaphorical descent through the five biological zones of the ocean, from the sunlit surface to the crushing darkness of the Mariana Trench.
+Abyssal Voyage is a high-performance, narrative-driven web experience created for the Frontend Odyssey challenge. It transforms the act of vertical scrolling into a metaphorical descent through the five biological zones of the ocean, from the sunlit surface to the crushing darkness of the Mariana Trench.
 
 > "The sea, once it casts its spell, holds one in its net of wonder forever." — Jacques Cousteau
 
